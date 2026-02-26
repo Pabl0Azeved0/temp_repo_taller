@@ -1,0 +1,21 @@
+# Python compilation and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing artifacts (Created by pytest)
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
